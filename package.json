@@ -1,0 +1,19 @@
+{
+  "name": "GalackInfoGrab",
+  "version": "1.0.0",
+  "description": "Un tool pour récupérer des infos à partir d'un token",
+  "main": "info.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GalackQSM#7926",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.2",
+    "chalk": "^4.1.0",
+    "discord.js": "11.5.1",
+    "long": "^4.0.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {}
+}
