@@ -9,9 +9,9 @@ N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le pr
 
 ### Bot
 
-Offres GalackInfoGrab:
-*   ✉️ Vous pouvez voir les informations d'un bot et membre
-*   🇫🇷 Vous pouvez voir sur le nombre de serveur
+A quoi sert GalackInfoGrab:
+*   ⚙️ Voir les informations d'un bot et membre
+*   ⚙️ Voir sur le nombre de serveur
 *   ⚙️ Voir le numéro de téléphone
 *   ⚙️ Voir l'adresse mail
 *   ⚙️ Voir les comptes connecté
