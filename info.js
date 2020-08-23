@@ -9,13 +9,13 @@ bot.login(token).catch(console.error);
 
 
 bot.on("ready", () => {
-    console.log((chalk.cyan(`                                            #####                                      #####                `)));
-    console.log((chalk.cyan(`                                           #     #   ##   #        ##    ####  #    # #     # ###### #    # `)));
-    console.log((chalk.cyan(`                                           #        #  #  #       #  #  #    # #   #  #       #      ##   # `)));
-    console.log((chalk.cyan(`                                           #  #### #    # #      #    # #      ####   #  #### #####  # #  # `)));
-    console.log((chalk.cyan(`                                           #     # ###### #      ###### #      #  #   #     # #      #  # # `)));
-    console.log((chalk.cyan(`                                           #     # #    # #      #    # #    # #   #  #     # #      #   ## `)));
-    console.log((chalk.cyan(`                                            #####  #    # ###### #    #  ####  #    #  #####  ###### #    # `)));
+    console.log((chalk.cyan(`                           #####                                     ###                       #####                     `)));
+    console.log((chalk.cyan(`                          #     #   ##   #        ##    ####  #    #  #  #    # ######  ####  #     # #####    ##   #####`)));
+    console.log((chalk.cyan(`                          #        #  #  #       #  #  #    # #   #   #  ##   # #      #    # #       #    #  #  #  #    #`)));
+    console.log((chalk.cyan(`                          #  #### #    # #      #    # #      ####    #  # #  # #####  #    # #  #### #    # #    # #####`)));
+    console.log((chalk.cyan(`                          #     # ###### #      ###### #      #  #    #  #  # # #      #    # #     # #####  ###### #    #`)));
+    console.log((chalk.cyan(`                          #     # #    # #      #    # #    # #   #   #  #   ## #      #    # #     # #   #  #    # #    #`)));
+    console.log((chalk.cyan(`                           #####  #    # ###### #    #  ####  #    # ### #    # #       ####   #####  #    # #    # #####`)));
     console.log("");                                  
     console.log((chalk.yellow(`                                                               Crée par GalackQSM#7926 !`)));  
     console.log((chalk.yellow(`                                                                © 2020 GalackQSM, Inc.`))); 
@@ -23,6 +23,7 @@ bot.on("ready", () => {
     console.log((chalk.red(`                                                         Discord: https://discord.gg/XH7zQ8s`)));   
     console.log((chalk.red(`                                                       Twitter: https://twitter.com/Galack_QSM`)));   
     console.log((chalk.red(`                                                        Github: https://github.com/GalackQSM`)));   
+    console.log((chalk.red(`                                                        Youtube: https://youtube.com/GalackQSM`)));   
     console.log("");                                  
     console.log("");                                   
 	console.log('-------------------------------------------------------------------');
